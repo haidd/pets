@@ -1,0 +1,14 @@
+!.gitignore
+.project
+.pydevproject
+# compiled python files
+*.py[co]
+.settings/
+
+# hg stuff
+*.orig
+# dump sql
+*.dump
+var/
+server-tools/
+odoo/
